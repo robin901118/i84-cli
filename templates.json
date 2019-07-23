@@ -1,0 +1,13 @@
+{
+	"name": "dsf",
+	"lodash": true,
+	"dayjs": true,
+	"imageLazy": true,
+	"storage": true,
+	"vconsole": true,
+	"hybrid": true,
+	"other": [
+		"lb-image-editor",
+		"family.scss"
+	]
+}
