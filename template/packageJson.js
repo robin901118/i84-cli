@@ -14,7 +14,8 @@ module.exports = {
     "vue": "^2.6.10",
     "vue-navigation": "^1.1.4",
     "vue-router": "^3.0.7",
-    "vuex": "^3.1.1"
+    "vuex": "^3.1.1",
+    "vuex-along": "^1.2.7"
   },
   "devDependencies": {
     "@babel/plugin-syntax-dynamic-import": "^7.2.0",
