@@ -12,8 +12,7 @@ module.exports = {
     "cube-ui": "~1.12.26",
     "postcss-design-convert": "^1.1.3",
     "vue": "^2.6.10",
-    "vue-navigation": "^1.1.4",
-    "vue-router": "^3.0.7",
+    "vue-router": "^3.1.3",
     "vuex": "^3.1.1",
     "vuex-along": "^1.2.7"
   },
